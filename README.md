@@ -1,1 +1,0 @@
-# reddit_trend_function_app
